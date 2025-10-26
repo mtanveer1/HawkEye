@@ -2,7 +2,9 @@
 
 If you are using this code, please cite the following paper:
 
-Mushir Akhtar, M. Tanveer, and Mohd. Arshad (2024). HawkEye: Advancing Robust Regression with Bounded, Smooth, and Insensitive Loss Function, https://arxiv.org/abs/2401.16785.
+Akhtar, M., Tanveer, M., & Arshad, M. (2025). HawkEye: A robust loss function for regression with bounded, smooth, and insensitive zone characteristics. Applied Soft Computing, 113118. https://doi.org/10.1016/j.asoc.2025.113118
+
+
 
 If there is any issue/bug in the code please write to phd2101241004@iiti.ac.in or im.mushir.akh@gmail.com.
 
